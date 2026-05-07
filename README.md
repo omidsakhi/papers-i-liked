@@ -96,6 +96,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2020 | 10 | [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) | [GitHub](https://github.com/ermongroup/ddim) |
 | 2020 | 10 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929) | [On-HF](https://huggingface.co/docs/transformers/model_doc/vit) |
 | 2020 | 11 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [GitHub](https://github.com/yang-song/score_sde) |
+| 2020 | 12 | [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | [GitHub](https://github.com/CompVis/taming-transformers) |
 | 2021 | 01 | [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) ||
 | 2021 | 02 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) ||
 | 2021 | 02 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) ||
@@ -109,6 +110,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2022 | 06 | [Elucidating the Design Space of Diffusion-Based Generative Models (EulerDiscrete)](https://arxiv.org/abs/2206.00364) | [HF-Schedulers](https://huggingface.co/docs/diffusers/main/en/api/schedulers/euler) |
 | 2022 | 06 | [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps](https://arxiv.org/abs/2206.00927) ||
 | 2022 | 08 | [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970) ||
+| 2022 | 10 | [Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance](https://arxiv.org/abs/2210.05559) ||
 | 2022 | 11 | [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://arxiv.org/abs/2211.09794) | [YouTube](https://www.youtube.com/watch?v=qzTlzrMWU2M) |
 | 2022 | 11 | [DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models](https://arxiv.org/abs/2211.01095) | [HF-Scheduler](https://huggingface.co/docs/diffusers/main/en/api/schedulers/multistep_dpm_solver) |
 | 2022 | 12 | [Scalable Diffusion Models with Transformers (DiT)](https://arxiv.org/abs/2212.09748) | [Project Page](https://www.wpeebles.com/DiT) |
@@ -135,6 +137,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2017 | 01 | [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://arxiv.org/abs/1807.10165) |
 | 2017 | 06 | [Unsupervised Body Part Regression via Spatially Self-ordering Convolutional Neural Networks](https://arxiv.org/abs/1707.03891) |
 | 2018 | 04 | [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723) |
+| 2018 | 06 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924) |
 | 2018 | 07 | [IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis](https://arxiv.org/abs/1807.06358) |
 | 2018 | 07 | [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039) |
 | 2018 | 10 | [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/abs/1803.04189) |
@@ -145,3 +148,15 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2020 | 03 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) |
 | 2020 | 12 | [nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation](https://github.com/MIC-DKFZ/nnUNet) |
 | 2022 | 01 | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |
+| 2023 | 08 | [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) |
+
+## To Read
+
+| Year | Month | Title           |
+| ------------- |-------------|-------------|
+| 2023 | 03 | [Sigmoid Loss for Language Image Pre-Training (SigLIP)](https://arxiv.org/abs/2303.15343) |
+| 2024 | 10 | [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |
+| 2025 | 10 | [Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls](https://arxiv.org/abs/2510.00184) |
+| 2025 | 10 | [Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density](https://arxiv.org/abs/2510.05949) |
+| 2025 | 10 | [Attention Sinks and Compression Valleys in LLMs Are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
+| 2025 | 10 | [Defeating the Training-Inference Mismatch via FP16](https://arxiv.org/abs/2510.26788) |
