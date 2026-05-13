@@ -154,8 +154,26 @@ This is not a comprehensive list of the most important papers in deep learning, 
 
 | Year | Month | Title           |
 | ------------- |-------------|-------------|
+| 2022 | 01 | [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177) |
+| 2022 | 05 | [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147) |
+| 2022 | 09 | [Toy Models of Superposition](https://arxiv.org/abs/2209.10652) |
+| 2022 | 10 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) |
+| 2023 | 03 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) |
 | 2023 | 03 | [Sigmoid Loss for Language Image Pre-Training (SigLIP)](https://arxiv.org/abs/2303.15343) |
+| 2023 | 05 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
+| 2023 | 05 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) |
+| 2023 | 12 | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) |
+| 2024 | 01 | [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) |
+| 2024 | 02 | [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) |
+| 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
+| 2024 | 03 | [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) |
+| 2024 | 03 | [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887) |
+| 2024 | 04 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143) |
+| 2024 | 07 | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) |
+| 2024 | 08 | [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240) |
 | 2024 | 10 | [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |
+| 2024 | 11 | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
+| 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
 | 2025 | 10 | [Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls](https://arxiv.org/abs/2510.00184) |
 | 2025 | 10 | [Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density](https://arxiv.org/abs/2510.05949) |
 | 2025 | 10 | [Attention Sinks and Compression Valleys in LLMs Are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
