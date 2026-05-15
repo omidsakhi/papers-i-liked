@@ -16,9 +16,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2013 |    | [on the importance of initialization and momentum in deep learning](https://www.cs.toronto.edu/~fritz/absps/momentum.pdf) |
 | 2014 | 05 | [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828) |
 | 2014 | 06 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf) |
-| 2014 | 12 | [Neural Turing Machines](https://arxiv.org/abs/1410.5401) |
 | 2014 | 12 | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) |
-| 2014 | 12 | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) |
 | 2015 |    | [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) |
 | 2015 | 02 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) |
 | 2015 | 02 | [Human-level control through deep reinforcement learning](https://www.deepmind.com/publications/human-level-control-through-deep-reinforcement-learning) |
@@ -45,6 +43,21 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2019 | 12 | [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) |
 | 2020 | 03 | [Autoencoders](https://arxiv.org/abs/2003.05991) |
 | 2020 | 06 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
+
+## RNN / state-space models
+
+| Year | Month | Title           |
+| ------------- |-------------|-------------|
+| 2014 | 09 | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) |
+| 2014 | 09 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) |
+| 2014 | 10 | [Neural Turing Machines](https://arxiv.org/abs/1410.5401) |
+| 2015 | 02 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) |
+| 2020 | 08 | [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) |
+| 2021 | 11 | [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) |
+| 2022 | 06 | [How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) |
+| 2023 | 12 | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) |
+| 2024 | 03 | [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887) |
+| 2024 | 10 | [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |
 
 ## Generative Models (VAE, GAN and Diffusion Models)
 
@@ -128,8 +141,6 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | ------------- |-------------|-------------|
 | 2012 | 12 | [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) |
 | 2013 | 12 | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) |
-| 2014 | 09 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) |
-| 2015 | 02 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) |
 | 2015 | 08 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) |
 | 2016 | 01 | [Mastering the game of Go with deep neural networks and tree search](https://www.deepmind.com/publications/mastering-the-game-of-go-with-deep-neural-networks-tree-search) |
 | 2016 | 03 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) |
@@ -156,22 +167,22 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | ------------- |-------------|-------------|
 | 2022 | 01 | [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177) |
 | 2022 | 05 | [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147) |
+| 2020 | 06 | [Bootstrap your own latent: A new approach to self-supervised Learning (BYOL)](https://arxiv.org/abs/2006.07733) |
+| 2022 | 06 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
 | 2022 | 09 | [Toy Models of Superposition](https://arxiv.org/abs/2209.10652) |
 | 2022 | 10 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) |
+| 2023 | 01 | [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243) |
 | 2023 | 03 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) |
 | 2023 | 03 | [Sigmoid Loss for Language Image Pre-Training (SigLIP)](https://arxiv.org/abs/2303.15343) |
 | 2023 | 05 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
 | 2023 | 05 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) |
-| 2023 | 12 | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) |
 | 2024 | 01 | [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) |
 | 2024 | 02 | [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) |
 | 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
 | 2024 | 03 | [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) |
-| 2024 | 03 | [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887) |
 | 2024 | 04 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143) |
 | 2024 | 07 | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) |
 | 2024 | 08 | [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240) |
-| 2024 | 10 | [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |
 | 2024 | 11 | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
 | 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
 | 2025 | 10 | [Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls](https://arxiv.org/abs/2510.00184) |
