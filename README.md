@@ -170,6 +170,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2020 | 06 | [Bootstrap your own latent: A new approach to self-supervised Learning (BYOL)](https://arxiv.org/abs/2006.07733) |
 | 2022 | 06 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
 | 2022 | 09 | [Toy Models of Superposition](https://arxiv.org/abs/2209.10652) |
+| 2022 | 10 | [Scaling Forward Gradient With Local Losses](https://arxiv.org/abs/2210.03310) |
 | 2022 | 10 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) |
 | 2023 | 01 | [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243) |
 | 2023 | 03 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) |
@@ -184,8 +185,21 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2024 | 07 | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) |
 | 2024 | 08 | [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240) |
 | 2024 | 11 | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
+| 2025 | 03 | [Learning Decision Trees as Amortized Structure Inference](https://arxiv.org/abs/2503.06985) |
+| 2025 | 03 | [Transformers without Normalization](https://arxiv.org/abs/2503.10622) |
 | 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
+| 2025 | 05 | [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) |
+| 2025 | 05 | [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444) |
+| 2025 | 06 | [Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning](https://arxiv.org/abs/2506.09498) |
+| 2025 | 07 | [Training Transformers with Enforced Lipschitz Constants](https://arxiv.org/abs/2507.13338) |
 | 2025 | 10 | [Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls](https://arxiv.org/abs/2510.00184) |
+| 2025 | 10 | [Rethinking Thinking Tokens: LLMs as Improvement Operators](https://arxiv.org/abs/2510.01123) |
 | 2025 | 10 | [Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density](https://arxiv.org/abs/2510.05949) |
-| 2025 | 10 | [Attention Sinks and Compression Valleys in LLMs Are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
+| 2025 | 10 | [Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
+| 2025 | 10 | [Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models](https://arxiv.org/abs/2510.08492) |
+| 2025 | 10 | [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) |
 | 2025 | 10 | [Defeating the Training-Inference Mismatch via FP16](https://arxiv.org/abs/2510.26788) |
+| 2025 | 12 | [A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852) |
+| 2026 | 01 | [One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158) |
+| 2026 | 02 | [Maximum Likelihood Reinforcement Learning](https://arxiv.org/abs/2602.02710) |
+| 2026 | 05 | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) |
