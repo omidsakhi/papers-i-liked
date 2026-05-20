@@ -165,7 +165,11 @@ This is not a comprehensive list of the most important papers in deep learning, 
 
 | Year | Month | Title           |
 | ------------- |-------------|-------------|
+| 2017 | 06 | [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741) |
+| 2018 | 11 | [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871) |
+| 2021 | 05 | [A Survey on Interactive Reinforcement Learning: Design Principles and Open Challenges](https://arxiv.org/abs/2105.12949) |
 | 2022 | 01 | [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177) |
+| 2022 | 03 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) |
 | 2022 | 05 | [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147) |
 | 2020 | 06 | [Bootstrap your own latent: A new approach to self-supervised Learning (BYOL)](https://arxiv.org/abs/2006.07733) |
 | 2022 | 06 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
@@ -177,6 +181,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 03 | [Sigmoid Loss for Language Image Pre-Training (SigLIP)](https://arxiv.org/abs/2303.15343) |
 | 2023 | 05 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
 | 2023 | 05 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) |
+| 2023 | 12 | [A Survey of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2312.14925) |
 | 2024 | 01 | [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) |
 | 2024 | 02 | [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) |
 | 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
@@ -188,6 +193,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2025 | 03 | [Learning Decision Trees as Amortized Structure Inference](https://arxiv.org/abs/2503.06985) |
 | 2025 | 03 | [Transformers without Normalization](https://arxiv.org/abs/2503.10622) |
 | 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
+| 2025 | 04 | [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501) |
 | 2025 | 05 | [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) |
 | 2025 | 05 | [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444) |
 | 2025 | 06 | [Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning](https://arxiv.org/abs/2506.09498) |
@@ -197,6 +203,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2025 | 10 | [Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density](https://arxiv.org/abs/2510.05949) |
 | 2025 | 10 | [Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
 | 2025 | 10 | [Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models](https://arxiv.org/abs/2510.08492) |
+| 2025 | 10 | [Explainable Human-in-the-Loop Segmentation via Critic Feedback Signals](https://arxiv.org/abs/2510.09945) |
 | 2025 | 10 | [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) |
 | 2025 | 10 | [Defeating the Training-Inference Mismatch via FP16](https://arxiv.org/abs/2510.26788) |
 | 2025 | 12 | [A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852) |
