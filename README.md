@@ -19,12 +19,9 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2014 | 12 | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) |
 | 2015 |    | [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) |
 | 2015 | 02 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) |
-| 2015 | 02 | [Human-level control through deep reinforcement learning](https://www.deepmind.com/publications/human-level-control-through-deep-reinforcement-learning) |
 | 2015 | 03 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) |
 | 2015 | 05 | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) |
 | 2015 | 06 | [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) |
-| 2015 | 09 | [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) |
-| 2015 | 09 | [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) |
 | 2015 | 12 | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |
 | 2016 | 06 | [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754) |
 | 2016 | 08 | [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) |
@@ -43,6 +40,31 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2019 | 12 | [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) |
 | 2020 | 03 | [Autoencoders](https://arxiv.org/abs/2003.05991) |
 | 2020 | 06 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
+
+## Reinforcement Learning
+
+| Year | Month | Title           |
+| ------------- |-------------|-------------|
+| 2013 | 12 | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) |
+| 2015 | 02 | [Human-level control through deep reinforcement learning](https://www.deepmind.com/publications/human-level-control-through-deep-reinforcement-learning) |
+| 2015 | 09 | [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) |
+| 2015 | 09 | [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) |
+| 2016 | 01 | [Mastering the game of Go with deep neural networks and tree search](https://www.deepmind.com/publications/mastering-the-game-of-go-with-deep-neural-networks-tree-search) |
+| 2017 | 06 | [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741) |
+| 2017 | 07 | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) |
+| 2018 | 11 | [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871) |
+| 2020 | 09 | [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325) |
+| 2021 | 05 | [A Survey on Interactive Reinforcement Learning: Design Principles and Open Challenges](https://arxiv.org/abs/2105.12949) |
+| 2022 | 03 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) |
+| 2023 | 03 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) |
+| 2023 | 05 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) |
+| 2023 | 12 | [A Survey of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2312.14925) |
+| 2024 | 01 | [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) |
+| 2024 | 08 | [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240) |
+| 2025 | 04 | [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501) |
+| 2025 | 10 | [Explainable Human-in-the-Loop Segmentation via Critic Feedback Signals](https://arxiv.org/abs/2510.09945) |
+| 2025 | 12 | [A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852) |
+| 2026 | 02 | [Maximum Likelihood Reinforcement Learning](https://arxiv.org/abs/2602.02710) |
 
 ## RNN / state-space models
 
@@ -82,6 +104,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 04 | [A Fully Progressive Approach to Single-Image Super-Resolution (ProGanSR)](https://arxiv.org/abs/1804.02900) |
 | 2018 | 05 | [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) |
 | 2018 | 06 | [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/abs/1807.00734) |
+| 2018 | 09 | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219) |
 | 2018 | 09 | [Large Scale GAN Training for High Fidelity Natural Image Synthesis (BigGAN)](https://arxiv.org/abs/1809.11096) |
 | 2018 | 09 | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219) |
 | 2018 | 12 | [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/abs/1812.04948) |
@@ -131,18 +154,25 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 02 | [Adding Conditional Control to Text-to-Image Diffusion Models (ControlNET)](https://arxiv.org/abs/2302.05543) | [HF-ControlNet](https://huggingface.co/docs/diffusers/main/en/using-diffusers/controlnet) |
 | 2023 | 02 | [UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2302.04867) | [HF-Scheduler](https://huggingface.co/docs/diffusers/main/en/api/schedulers/unipc) |
 | 2023 | 03 | [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://arxiv.org/abs/2302.08113) | [HF-Pipeline](https://huggingface.co/docs/diffusers/api/pipelines/panorama) |
-| 2023 | 04 | [Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://arxiv.org/abs/2304.02602) | [Project Page](https://nvlabs.github.io/genvs/) |
 | 2023 | 07 | [Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952) | [HF-Model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
 | 2023 | 11 | [LCM-LoRA: A Universal Stable-Diffusion Acceleration Module](https://arxiv.org/abs/2311.05556) ||
+
+## Computer Graphics
+
+| Year | Month | Title           |
+| ------------- |-------------|-------------|
+| 2020 | 03 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) |
+| 2022 | 01 | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |
+| 2023 | 04 | [Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://arxiv.org/abs/2304.02602) |
+| 2023 | 08 | [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) |
+| 2024 | 11 | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
 
 ## Others
 
 | Year | Month | Title           |
 | ------------- |-------------|-------------|
 | 2012 | 12 | [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) |
-| 2013 | 12 | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) |
 | 2015 | 08 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) |
-| 2016 | 01 | [Mastering the game of Go with deep neural networks and tree search](https://www.deepmind.com/publications/mastering-the-game-of-go-with-deep-neural-networks-tree-search) |
 | 2016 | 03 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) |
 | 2016 | 09 | [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) |
 | 2017 | 01 | [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](https://arxiv.org/abs/1807.10165) |
@@ -156,20 +186,13 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2019 | 01 | [High-Quality Self-Supervised Deep Image Denoising](https://arxiv.org/abs/1901.10277) |
 | 2019 | 03 | [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) |
 | 2020 | 03 | [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/abs/2003.03808) |
-| 2020 | 03 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) |
 | 2020 | 12 | [nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation](https://github.com/MIC-DKFZ/nnUNet) |
-| 2022 | 01 | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |
-| 2023 | 08 | [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) |
 
 ## To Read
 
 | Year | Month | Title           |
 | ------------- |-------------|-------------|
-| 2017 | 06 | [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741) |
-| 2018 | 11 | [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871) |
-| 2021 | 05 | [A Survey on Interactive Reinforcement Learning: Design Principles and Open Challenges](https://arxiv.org/abs/2105.12949) |
 | 2022 | 01 | [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177) |
-| 2022 | 03 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) |
 | 2022 | 05 | [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147) |
 | 2020 | 06 | [Bootstrap your own latent: A new approach to self-supervised Learning (BYOL)](https://arxiv.org/abs/2006.07733) |
 | 2022 | 06 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
@@ -177,23 +200,17 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2022 | 10 | [Scaling Forward Gradient With Local Losses](https://arxiv.org/abs/2210.03310) |
 | 2022 | 10 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) |
 | 2023 | 01 | [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243) |
-| 2023 | 03 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) |
 | 2023 | 03 | [Sigmoid Loss for Language Image Pre-Training (SigLIP)](https://arxiv.org/abs/2303.15343) |
 | 2023 | 05 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
 | 2023 | 05 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) |
-| 2023 | 12 | [A Survey of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2312.14925) |
-| 2024 | 01 | [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) |
 | 2024 | 02 | [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) |
 | 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
 | 2024 | 03 | [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) |
 | 2024 | 04 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143) |
 | 2024 | 07 | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) |
-| 2024 | 08 | [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240) |
-| 2024 | 11 | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
 | 2025 | 03 | [Learning Decision Trees as Amortized Structure Inference](https://arxiv.org/abs/2503.06985) |
 | 2025 | 03 | [Transformers without Normalization](https://arxiv.org/abs/2503.10622) |
 | 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
-| 2025 | 04 | [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501) |
 | 2025 | 05 | [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) |
 | 2025 | 05 | [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444) |
 | 2025 | 06 | [Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning](https://arxiv.org/abs/2506.09498) |
@@ -203,10 +220,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2025 | 10 | [Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density](https://arxiv.org/abs/2510.05949) |
 | 2025 | 10 | [Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
 | 2025 | 10 | [Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models](https://arxiv.org/abs/2510.08492) |
-| 2025 | 10 | [Explainable Human-in-the-Loop Segmentation via Critic Feedback Signals](https://arxiv.org/abs/2510.09945) |
 | 2025 | 10 | [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) |
 | 2025 | 10 | [Defeating the Training-Inference Mismatch via FP16](https://arxiv.org/abs/2510.26788) |
-| 2025 | 12 | [A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852) |
 | 2026 | 01 | [One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158) |
-| 2026 | 02 | [Maximum Likelihood Reinforcement Learning](https://arxiv.org/abs/2602.02710) |
 | 2026 | 05 | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) |
