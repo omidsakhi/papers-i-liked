@@ -33,7 +33,6 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 03 | [Group Normalization](https://arxiv.org/abs/1803.08494) |
 | 2018 | 04 | [Partial Convolution based Padding](https://arxiv.org/abs/1811.11718) |
 | 2018 | 05 | [Born Again Neural Networks](https://arxiv.org/abs/1805.04770) |
-| 2018 | 06 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) |
 | 2018 | 11 | [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883) |
 | 2018 | 12 | [Graph neural networks: A review of methods and applications](https://arxiv.org/abs/1812.08434) |
 | 2019 | 12 | [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292) |
@@ -81,7 +80,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2024 | 03 | [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887) |
 | 2024 | 10 | [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |
 
-## Generative Models (VAE, GAN and Diffusion Models)
+## Generative Models (VAE, GAN, Flow and Diffusion Models)
 
 ### GAN
 
@@ -106,13 +105,33 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 06 | [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/abs/1807.00734) |
 | 2018 | 09 | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219) |
 | 2018 | 09 | [Large Scale GAN Training for High Fidelity Natural Image Synthesis (BigGAN)](https://arxiv.org/abs/1809.11096) |
-| 2018 | 09 | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219) |
 | 2018 | 12 | [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/abs/1812.04948) |
 | 2019 | 12 | [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)](https://arxiv.org/abs/1912.04958) |
 | 2021 | 06 | [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://arxiv.org/abs/2106.12423) |
 | 2023 | 01 | [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis](https://arxiv.org/abs/2301.09515) |
 | 2023 | 03 | [GigaGAN: Scaling up GANs for Text-to-Image Synthesis](https://arxiv.org/abs/2303.05511) |
 | 2023 | 03 | [Consistency Models](https://arxiv.org/abs/2303.01469) |
+
+### Flow-based Methods
+
+| Year | Month | Title           |
+| ------------- |-------------|-------------|
+| 2014 | 12 | [NICE: Non-linear Independent Components Estimation](https://arxiv.org/abs/1410.8516) |
+| 2016 | 05 | [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803) |
+| 2017 | 05 | [Masked Autoregressive Flow for Density Estimation](https://arxiv.org/abs/1705.07057) |
+| 2018 | 06 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) |
+| 2018 | 07 | [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039) |
+| 2018 | 10 | [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) |
+| 2019 | 06 | [Neural Spline Flows](https://arxiv.org/abs/1906.04032) |
+| 2019 | 08 | [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) |
+| 2020 | 11 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) |
+| 2022 | 09 | [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003) |
+| 2022 | 10 | [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) |
+| 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
+| 2024 | 12 | [Normalizing Flows are Capable Generative Models](https://arxiv.org/abs/2412.06329) |
+| 2025 | 05 | [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) |
+| 2026 | 01 | [One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158) |
+| 2026 | 05 | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) |
 
 ### Diffusion Models
 
@@ -131,7 +150,6 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2020 | 06 | [Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/abs/2006.11239) | [GitHub](https://hojonathanho.github.io/diffusion/) |
 | 2020 | 10 | [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) | [GitHub](https://github.com/ermongroup/ddim) |
 | 2020 | 10 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929) | [On-HF](https://huggingface.co/docs/transformers/model_doc/vit) |
-| 2020 | 11 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [GitHub](https://github.com/yang-song/score_sde) |
 | 2020 | 12 | [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | [GitHub](https://github.com/CompVis/taming-transformers) |
 | 2021 | 01 | [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) ||
 | 2021 | 02 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) ||
@@ -180,7 +198,6 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 04 | [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723) |
 | 2018 | 06 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924) |
 | 2018 | 07 | [IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis](https://arxiv.org/abs/1807.06358) |
-| 2018 | 07 | [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039) |
 | 2018 | 10 | [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/abs/1803.04189) |
 | 2019 | 01 | [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446) |
 | 2019 | 01 | [High-Quality Self-Supervised Deep Image Denoising](https://arxiv.org/abs/1901.10277) |
@@ -204,14 +221,12 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 05 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
 | 2023 | 05 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) |
 | 2024 | 02 | [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) |
-| 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
 | 2024 | 03 | [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) |
 | 2024 | 04 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143) |
 | 2024 | 07 | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) |
 | 2025 | 03 | [Learning Decision Trees as Amortized Structure Inference](https://arxiv.org/abs/2503.06985) |
 | 2025 | 03 | [Transformers without Normalization](https://arxiv.org/abs/2503.10622) |
 | 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
-| 2025 | 05 | [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) |
 | 2025 | 05 | [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444) |
 | 2025 | 06 | [Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning](https://arxiv.org/abs/2506.09498) |
 | 2025 | 07 | [Training Transformers with Enforced Lipschitz Constants](https://arxiv.org/abs/2507.13338) |
@@ -222,5 +237,3 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2025 | 10 | [Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models](https://arxiv.org/abs/2510.08492) |
 | 2025 | 10 | [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) |
 | 2025 | 10 | [Defeating the Training-Inference Mismatch via FP16](https://arxiv.org/abs/2510.26788) |
-| 2026 | 01 | [One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158) |
-| 2026 | 05 | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) |
