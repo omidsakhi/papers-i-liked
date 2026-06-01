@@ -37,7 +37,6 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 12 | [Graph neural networks: A review of methods and applications](https://arxiv.org/abs/1812.08434) |
 | 2019 | 12 | [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292) |
 | 2019 | 12 | [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) |
-| 2020 | 03 | [Autoencoders](https://arxiv.org/abs/2003.05991) |
 | 2020 | 06 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
 
 ## Reinforcement Learning
@@ -81,6 +80,16 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2024 | 10 | [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |
 
 ## Generative Models (VAE, GAN, Flow and Diffusion Models)
+
+### VAE
+
+| Year | Month | Title           |
+| ------------- |-------------|-------------|
+| 2013 | 12 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) |
+| 2017 | 11 | [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) |
+| 2018 | 07 | [IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis](https://arxiv.org/abs/1807.06358) |
+| 2019 | 06 | [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) |
+| 2020 | 03 | [Autoencoders](https://arxiv.org/abs/2003.05991) |
 
 ### GAN
 
@@ -139,13 +148,10 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | ------------- |-------------|-------------|-------------|
 | 2008 |    | [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) ||
 | 2010 | 12 | [A Connection Between Score Matching and Denoising Autoencoders](https://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf) ||
-| 2013 | 12 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) ||
 | 2015 | 03 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) ||
 | 2016 | 06 | [Conditional Image Generation with PixelCNN Decoders (PixelCNN)](https://arxiv.org/abs/1606.05328) ||
 | 2017 | 01 | [Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications (PixelCNN++)](https://arxiv.org/abs/1701.05517) | [GitHub](https://github.com/openai/pixel-cnn) |
 | 2017 | 06 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) ||
-| 2017 | 11 | [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) ||
-| 2019 | 06 | [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) ||
 | 2019 | 07 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) ||
 | 2020 | 06 | [Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/abs/2006.11239) | [GitHub](https://hojonathanho.github.io/diffusion/) |
 | 2020 | 10 | [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) | [GitHub](https://github.com/ermongroup/ddim) |
@@ -197,7 +203,6 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2017 | 06 | [Unsupervised Body Part Regression via Spatially Self-ordering Convolutional Neural Networks](https://arxiv.org/abs/1707.03891) |
 | 2018 | 04 | [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723) |
 | 2018 | 06 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924) |
-| 2018 | 07 | [IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis](https://arxiv.org/abs/1807.06358) |
 | 2018 | 10 | [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/abs/1803.04189) |
 | 2019 | 01 | [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446) |
 | 2019 | 01 | [High-Quality Self-Supervised Deep Image Denoising](https://arxiv.org/abs/1901.10277) |
@@ -220,12 +225,14 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 03 | [Sigmoid Loss for Language Image Pre-Training (SigLIP)](https://arxiv.org/abs/2303.15343) |
 | 2023 | 05 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) |
 | 2023 | 05 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) |
+| 2023 | 11 | [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042) |
 | 2024 | 02 | [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) |
 | 2024 | 03 | [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) |
 | 2024 | 04 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143) |
 | 2024 | 07 | [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787) |
 | 2025 | 03 | [Learning Decision Trees as Amortized Structure Inference](https://arxiv.org/abs/2503.06985) |
 | 2025 | 03 | [Transformers without Normalization](https://arxiv.org/abs/2503.10622) |
+| 2025 | 03 | [NoProp: Training Neural Networks without Full Back-propagation or Full Forward-propagation](https://arxiv.org/abs/2503.24322) |
 | 2025 | 04 | [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285) |
 | 2025 | 05 | [Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444) |
 | 2025 | 06 | [Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning](https://arxiv.org/abs/2506.09498) |
