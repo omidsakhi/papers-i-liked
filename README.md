@@ -38,6 +38,8 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2019 | 12 | [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292) |
 | 2019 | 12 | [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) |
 | 2020 | 06 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
+| 2024 | 05 | [The Road Less Scheduled](https://arxiv.org/abs/2405.15682) |
+| 2025 | 04 | [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](https://arxiv.org/abs/2504.19874) |
 
 ## Reinforcement Learning
 
@@ -68,6 +70,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 
 | Year | Month | Title           |
 | ------------- |-------------|-------------|
+| 2003 | 02 | [A Neural Probabilistic Language Model](https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) |
 | 2014 | 09 | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) |
 | 2014 | 09 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) |
 | 2014 | 10 | [Neural Turing Machines](https://arxiv.org/abs/1410.5401) |
@@ -180,6 +183,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 03 | [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://arxiv.org/abs/2302.08113) | [HF-Pipeline](https://huggingface.co/docs/diffusers/api/pipelines/panorama) |
 | 2023 | 07 | [Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952) | [HF-Model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
 | 2023 | 11 | [LCM-LoRA: A Universal Stable-Diffusion Acceleration Module](https://arxiv.org/abs/2311.05556) ||
+| 2025 | 11 | [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720) ||
 
 ## Computer Graphics
 
