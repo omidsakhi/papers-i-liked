@@ -38,6 +38,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2019 | 12 | [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292) |
 | 2019 | 12 | [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) |
 | 2020 | 06 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
+| 2024 | 02 | [DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353) |
 | 2024 | 05 | [The Road Less Scheduled](https://arxiv.org/abs/2405.15682) |
 | 2025 | 04 | [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](https://arxiv.org/abs/2504.19874) |
 
@@ -75,6 +76,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2014 | 09 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) |
 | 2014 | 10 | [Neural Turing Machines](https://arxiv.org/abs/1410.5401) |
 | 2015 | 02 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) |
+| 2020 | 05 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) |
 | 2020 | 08 | [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) |
 | 2021 | 11 | [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) |
 | 2022 | 06 | [How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) |
@@ -93,6 +95,12 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 07 | [IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis](https://arxiv.org/abs/1807.06358) |
 | 2019 | 06 | [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) |
 | 2020 | 03 | [Autoencoders](https://arxiv.org/abs/2003.05991) |
+| 2021 | 10 | [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/abs/2110.04627) |
+| 2022 | 03 | [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941) |
+| 2023 | 09 | [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/abs/2309.15505) |
+| 2023 | 10 | [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/abs/2310.05737) |
+| 2025 | 04 | [REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers](https://arxiv.org/abs/2504.10483) |
+| 2025 | 10 | [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2510.11690) |
 
 ### GAN
 
