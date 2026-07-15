@@ -240,6 +240,17 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 08 | X | [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) |
 | 2024 | 11 | X | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
 
+## AI Assisted Proofs
+
+| Year | Month | To Read | Title           |
+| ------------- |-------------|-------------|-------------|
+| 2026 | 02 |  | [Early Evidence of Vibe-Proving with Consumer LLMs: A Case Study on Spectral Region Characterization with ChatGPT-5.2 (Thinking)](https://arxiv.org/abs/2602.18918) |
+| 2026 | 02 |  | [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) |
+| 2026 | 03 |  | [Vibe physics: The AI grad student](https://www.anthropic.com/research/vibe-physics) |
+| 2026 | 05 |  | [GPT-5.4 Solved a 60-Year Math Problem: What Happened](https://www.buildfastwithai.com/blogs/gpt-5-4-solved-a-60-year-math-problem-what-happened) |
+| 2026 | 05 |  | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) |
+| 2026 | 06 |  | [A proof of an identity for the critical exponents of jamming](https://arxiv.org/abs/2606.03300) |
+
 ## Others
 
 | Year | Month | To Read | Title           |
