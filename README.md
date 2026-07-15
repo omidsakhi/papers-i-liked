@@ -28,6 +28,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2016 | 09 | [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530) |
 | 2017 | 03 | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
 | 2017 | 08 | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) |
+| 2017 | 11 | [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) |
 | 2017 | 12 | [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html) |
 | 2018 | 03 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) |
 | 2018 | 03 | [Group Normalization](https://arxiv.org/abs/1803.08494) |
@@ -35,12 +36,29 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2018 | 05 | [Born Again Neural Networks](https://arxiv.org/abs/1805.04770) |
 | 2018 | 11 | [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883) |
 | 2018 | 12 | [Graph neural networks: A review of methods and applications](https://arxiv.org/abs/1812.08434) |
+| 2019 | 04 | [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925) |
+| 2019 | 06 | [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/abs/1906.05909) |
 | 2019 | 12 | [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292) |
 | 2019 | 12 | [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) |
+| 2020 | 01 | [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) |
+| 2020 | 05 | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) |
 | 2020 | 06 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
+| 2020 | 12 | [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877) |
+| 2021 | 03 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) |
+| 2021 | 03 | [Understanding Robustness of Transformers for Image Classification](https://arxiv.org/abs/2103.14586) |
+| 2021 | 04 | [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294) |
+| 2021 | 05 | [Intriguing Properties of Vision Transformers](https://arxiv.org/abs/2105.10497) |
+| 2021 | 06 | [How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers](https://arxiv.org/abs/2106.10270) |
+| 2021 | 08 | [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810) |
+| 2021 | 11 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) |
+| 2022 | 01 | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) |
+| 2022 | 03 | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) |
+| 2023 | 09 | [Language Modeling Is Compression](https://arxiv.org/abs/2309.10668) |
 | 2024 | 02 | [DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353) |
 | 2024 | 05 | [The Road Less Scheduled](https://arxiv.org/abs/2405.15682) |
+| 2025 | 04 | [Nemotron-CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training](https://arxiv.org/abs/2504.13161) |
 | 2025 | 04 | [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](https://arxiv.org/abs/2504.19874) |
+| 2025 | 05 | [How much do language models memorize?](https://arxiv.org/abs/2505.24832) |
 
 ## Reinforcement Learning
 
@@ -76,6 +94,8 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2014 | 09 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) |
 | 2014 | 10 | [Neural Turing Machines](https://arxiv.org/abs/1410.5401) |
 | 2015 | 02 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) |
+| 2019 | 01 | [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) |
+| 2019 | 10 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) |
 | 2020 | 05 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) |
 | 2020 | 08 | [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) |
 | 2021 | 11 | [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) |
@@ -150,6 +170,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2024 | 03 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
 | 2024 | 12 | [Normalizing Flows are Capable Generative Models](https://arxiv.org/abs/2412.06329) |
 | 2025 | 05 | [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) |
+| 2025 | 12 | [Discovering Symmetry Groups with Flow Matching](https://arxiv.org/abs/2512.20043) |
 | 2026 | 01 | [One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158) |
 | 2026 | 05 | [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) |
 
