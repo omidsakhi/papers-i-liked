@@ -250,7 +250,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2026 | 05 |  | [GPT-5.4 Solved a 60-Year Math Problem: What Happened](https://www.buildfastwithai.com/blogs/gpt-5-4-solved-a-60-year-math-problem-what-happened) |
 | 2026 | 05 |  | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) |
 | 2026 | 06 |  | [A proof of an identity for the critical exponents of jamming](https://arxiv.org/abs/2606.03300) |
-
+| 2026 | 07 |  | [Jacobian Conjecture Counter Example](https://xcancel.com/__alpoge__/status/2079028340955197566)
 ## Others
 
 | Year | Month | To Read | Title           |
