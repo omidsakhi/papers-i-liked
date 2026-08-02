@@ -83,6 +83,7 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2025 | 10 | X | [Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin](https://arxiv.org/abs/2510.06477) |
 | 2025 | 10 | X | [Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models](https://arxiv.org/abs/2510.08492) |
 | 2025 | 10 | X | [Defeating the Training-Inference Mismatch via FP16](https://arxiv.org/abs/2510.26788) |
+| 2026 | 07 |  | [Hilbert Operator for Progressive Encoding (HOPE): A Mathematical Framework for Deconstructing Learned Representations in Deep Networks](https://arxiv.org/abs/2607.21366) |
 
 ## Reinforcement Learning
 
@@ -239,18 +240,22 @@ This is not a comprehensive list of the most important papers in deep learning, 
 | 2023 | 04 |  | [Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://arxiv.org/abs/2304.02602) |
 | 2023 | 08 | X | [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) |
 | 2024 | 11 | X | [KFC-W: Generating 3D-Consistent Videos from Unposed Internet Photos](https://arxiv.org/abs/2411.13549) |
+| 2026 | 07 | X | [GNM Head: A Generative aNthropometric Model of the human head](https://arxiv.org/abs/2607.23687) |
 
 ## AI Assisted Proofs
 
 | Year | Month | To Read | Title           |
 | ------------- |-------------|-------------|-------------|
+| 2026 | 01 |  | [Resummation of the C-Parameter Sudakov Shoulder Using Effective Field Theory](https://arxiv.org/abs/2601.02484) |
 | 2026 | 02 |  | [Early Evidence of Vibe-Proving with Consumer LLMs: A Case Study on Spectral Region Characterization with ChatGPT-5.2 (Thinking)](https://arxiv.org/abs/2602.18918) |
 | 2026 | 02 |  | [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) |
 | 2026 | 03 |  | [Vibe physics: The AI grad student](https://www.anthropic.com/research/vibe-physics) |
 | 2026 | 05 |  | [GPT-5.4 Solved a 60-Year Math Problem: What Happened](https://www.buildfastwithai.com/blogs/gpt-5-4-solved-a-60-year-math-problem-what-happened) |
 | 2026 | 05 |  | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) |
 | 2026 | 06 |  | [A proof of an identity for the critical exponents of jamming](https://arxiv.org/abs/2606.03300) |
-| 2026 | 07 |  | [Jacobian Conjecture Counter Example](https://xcancel.com/__alpoge__/status/2079028340955197566)
+| 2026 | 07 |  | [Jacobian Conjecture Counter Example](https://xcancel.com/__alpoge__/status/2079028340955197566) |
+| 2026 | 08 |  | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) |
+
 ## Others
 
 | Year | Month | To Read | Title           |
